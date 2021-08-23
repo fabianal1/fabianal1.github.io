@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#texto {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 130px;
+    right: 150px; 
+    
+}
+
+#minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: darksalmon;
+}
+
+#image-container {
+    height: 300px;
+    position: relative;
+}
+
+#meunome {
+    text-align: center;
+}
+
+
+div {
+    border: 2px solid green;
+}
+
